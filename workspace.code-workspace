@@ -10,5 +10,7 @@
 			"path": "..\\..\\CPLN-680\\Permit_Metrics"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"jupyter.jupyterServerType": "remote"
+	}
 }
