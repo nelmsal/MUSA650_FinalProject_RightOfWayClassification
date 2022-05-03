@@ -17,3 +17,9 @@ data/clean/sf_naip_2018.json
 data/clean/sf_naip_2020.json
 data/clean/sf_naip_2020.csv
 data/clean/sf_naip_images.csv
+*.geojson
+data/clean/sf_naip_mask.csv
+data/clean/sf_naip_info.csv
+data/clean/sf_naip_info.parquet
+data/clean/sf_naip_images.parquet
+data/clean/sf_naip_mask.parquet
